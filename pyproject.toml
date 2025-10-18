@@ -10,7 +10,8 @@ readme = "README.md"
 requires-python = ">=3.13"
 license = "MIT"
 authors = [
-    { name = "Gavin", email = "gavin@llmdata.com" }
+    { name = "Gavin", email = "gavin@llmdata.com" },
+    { name = "Joey", email = "joey@llmdata.com" }
 ]
 keywords = ["rubrics", "grading", "eval"]
 classifiers = [
